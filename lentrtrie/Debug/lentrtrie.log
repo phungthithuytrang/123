@@ -1,0 +1,3 @@
+﻿  lentrtrie.cpp
+E:\CTDL\CTDLProject\Test ct\lentrtrie\lentrtrie.cpp(203,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  lentrtrie.vcxproj -> E:\CTDL\CTDLProject\Test ct\Debug\lentrtrie.exe

@@ -1,0 +1,15 @@
+﻿  Test ct.cpp
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(374,7): warning C4101: 'index': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(426,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(428,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(430,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(469,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(476,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(488,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(496,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(617,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(619,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(742,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(804,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\Test ct\Test ct.cpp(803,8): warning C4101: 'c': unreferenced local variable
+  Test ct.vcxproj -> E:\CTDL\CTDLProject\Test ct\Debug\Test ct.exe

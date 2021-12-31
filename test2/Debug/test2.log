@@ -1,0 +1,23 @@
+﻿  test2.cpp
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(374,7): warning C4101: 'index': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(426,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(428,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(430,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(501,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(502,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(508,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(728,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(780,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(782,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(784,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(791,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(795,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(799,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(933,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(934,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(947,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(948,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(1049,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(1113,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\test2\test2.cpp(1112,8): warning C4101: 'c': unreferenced local variable
+  test2.vcxproj -> E:\CTDL\CTDLProject\Test ct\Debug\test2.exe
